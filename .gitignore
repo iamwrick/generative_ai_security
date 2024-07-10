@@ -1,0 +1,11 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+
+# Ignore SSL certificates (if not needed to be version controlled)
+certs/
+
+# Ignore other generated files
+*.pem
